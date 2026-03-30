@@ -1,5 +1,5 @@
 # FinTech-Pro-Stock-Analyzer
-AI-powered stock market analyzer prototype with a modern dashboard UI for data-driven insights.
+AI-powered stock market analyzer prototype with a modern dashboard UI for data-driven insights but using Stitch AI.
 ## 🖥️ UI Features
 
 - Executive dashboard for stock analysis  
